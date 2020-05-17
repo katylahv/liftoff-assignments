@@ -16,4 +16,4 @@ https://trello.com/b/Bwj55F9S/idework
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/katyross/sidework
