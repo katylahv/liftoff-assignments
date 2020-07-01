@@ -7,8 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-* [wireframes](P3-Project_Planning/wireframe.pdf)
+[wireframes](./wireframe.pdf)
 
 ### Project Tracker
 

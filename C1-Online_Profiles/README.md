@@ -13,4 +13,4 @@ https://github.com/katyross
 https://www.linkedin.com/in/katy-ross-1562911aa/
 
 ### Resume
- ![Resume](C1-Online_Profiles/Resume.pdf)
+ ![Resume](./Resume.pdf)
